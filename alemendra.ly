@@ -4,6 +4,7 @@
 \header {
   title = "Alemendra 8-12"
   arranger = "arr. by Tregar Otton"
+  instrument = "Flute"
 }
 
 \score {
