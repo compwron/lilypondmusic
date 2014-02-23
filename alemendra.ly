@@ -12,6 +12,13 @@
     \key g \major
     \numericTimeSignature
     \time 4/4
-    r2 r4 g''8 g''8
+    \relative c'''{
+    r2 r4 g8 g8
+    g4 a8 b8 r8 c,8 d4
+    r4 r8 d8 d4 g8 g8
+    g4 f4 e4 d4 %note: sharp the f somehow
+    r4 a d r    
+    }
   }
+
 }
