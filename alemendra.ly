@@ -26,6 +26,8 @@
     a4 g8 fis8 e4 dis8 e8 
     g4 fis4 r8 e8 c'8 gis8 
     b4 a8 gis8 a4 fis8 d8 
+    ais4 b4 r4 r8 b8 %slur into next measure
+    b8 dis dis fis \times 2/3 {fis4 a4 a8 b8}
 
   
 
