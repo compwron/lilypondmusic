@@ -6,7 +6,10 @@
   instrument = "Flute"
 }
 
-    
+
+
+
+\transpose c' d'    
     \relative c'''{
     \key g \major
     \numericTimeSignature
@@ -38,7 +41,7 @@
     g4 fis4 r8 c'8 gis8 b8
 
     %measure 21
-    b4 a8 gis8 a4 fis8 d8
+    b4 a'8 gis,8 a4 fis8 d,8
     ais'4 b4 r2
     ees8 g8 g8 bes8 bes8 g8 g8 e8
     d8 g8 g8 b8 b8 g8 d8 dis8
@@ -117,7 +120,7 @@
     r1*4
 
     % flute llamada for out
-    a4 c8 a8 \times 2/3 {fis4 a4 fis4}
+    a'4 c8 a8 \times 2/3 {fis4 a4 fis4}
     d4. e8 \times 2/3 {c4 a4 c4}
     d1
     d2. r4
@@ -137,4 +140,5 @@
 
     % end of song (and end repeat)
     \bar "|."
-}
+  }
+
