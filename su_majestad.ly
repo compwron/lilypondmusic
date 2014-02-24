@@ -81,12 +81,95 @@
     c4 d8 e8 a2
 
     % page 2
+    \barNumberCheck #42
+    bes4 c8 c8 f2
+    a4 bes8 c8 ees2
+    r8 d8 d8 d8 d8 d8 d8 d8
+    c4 e4 g4 c4
+    bes4 d4 g2
+    g2 fis2
+    g4 r8 d8 r4 r4
 
+    \bar "||" \mark \default % C
+    \key g \major
+    % repeat starts
+    c4 d8 fis8 r8 d8 r4
+    r8 b8 d8 e,8 r8 e8 r8 b8 % why does the e have a circle over it?
+    % end repeat
 
+    % flute llamada
+    c4 d8 fis8 r8 d8 r4
+    r8 b8 d8 e8 r8 e8 r8 b8 \bar "||"
+    c4 d8 fis8 r8 d8 r4
+    r8 b8 d8 e8 r8 e8 b8 \bar "||"
+    c4 d8 fis8 r8 d8 e8
+    r8 g8 r8 b8 r4 r4 \bar "||"
+
+    \barNumberCheck #57
+    e8 e8 fis4 r4 r8 e8
+    r8 e8 r8 d8 r4 r4
+
+    % repeat start
+    r1*2
+    % repeat end
+
+    \mark \default % D
+    r1*2 \bar "||" 
+    r1*2 \bar "||"
+    e8 e8 fis4 r4 r8 e8
+    r8 e8 r8 d8 r4 r4
+
+    % repeat start coro (3X)
+    c4 a8 d8 c8 d8 r8 b8
+    r8 b8 r8 d8 r8 e8 d8 e8
+    a4 a8 d8 c8 d8 r8 b8
+
+    \barNumberCheck 70
+    r8 b8 d8 r8 e8 d8 e8 % end repeat
+
+    \mark \default % E
+    % start repeat
+    % flute solo (open)
+
+    a4 a8 d8 c8 d8 r8 b8
+    r8 b8 d8 r8 e8 d e8
+    % repeat ends
+
+    \mark \default % F
+    a4 a8 d8 c8 d8 r8 b8
+
+    \barNumberCheck 74
+    r8 b8 r8 d8 r8 e8 d8 e8
+    a4 a8 d8 c8 d8 r8 b8 
+    r8 b8 r8 d8 r8 e8 d8 e8
+    a4 a8 d8 c8 d8 r8 b8
+    r8 b8 r8 d8 d8 e8 d8 e8
+
+    \barNumberCheck 79
+    e8 e8 fis8 r4 r8 g8
+    r8 g8 r8 g8 r4 f4
+
+    \mark \default % G
+    % danzon coda
+    e2 cis4. d8
+    r4 r8 f8 r4 e4
+    r4 r8 fis8 fis4 r8 g16 g16
+    g4 r4 r2 \bar "||"
 
 
 
   }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
