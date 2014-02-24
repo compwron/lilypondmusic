@@ -64,9 +64,77 @@
     R1*16 
     R1*12
 
-    %page 2
+    %page 2 measure 64
+    d2. c8 bes8
+    a2 \times 2/3 {a4 bes4 c4}
+    bes2 \times 2/3 {r4 a4 g4}
+    f2. g8 a8
+    g2 ees2
+    aes2 a \times 2/3 {d8 e8 fis8}
+    
+    % 70
+    g4 ees4 d4 bes4
+    g4 g'4 r4 g8 g8
+    % start repeat
+    g4 a8 b8 r8 c8 d8
+    r4. d8 d,8 g8 g8
+    g4 fis4 e4 d4
+    r4 a4 d4 r4
 
+    % 76 paseo
+    fis8 g8 a8 g8 fis8 e8 d8 c8
+    \times 2/3 {c8 d8 d8} b4 r8 d8 g8 fis8 
+    fis8 e8 g8 e8 fis8 g8 e8 cis8
 
-  
+    % first ending
+    d4 d'4 r4 g,8 g8
 
+    % second ending
+    d4 r8 d'8 d8 d8 d4
+
+    % 81 estribillo
+    r1 r1 % end repeat endings 1, 2, 3, 4
+
+    % start repeat
+    c4 r8 c8 c2
+    c2 c4 a8 c8
+    a4 r8 a8 a2
+
+    % ending 1
+    a2 r2
+
+    % 87
+    a2 fis8 g8 fis8 e8
+    d4 r8 d8 d2
+    d2 e4 c8 a8
+    d4 r8 d8 d4 d4
+    r1*2
+    r1*2 % piano solo
+
+    %95
+    r1*13
+    r1*4
+    r1*4
+
+    % flute llamada for out
+    a4 c8 a8 \times 2/3 {fis4 a4 fis4}
+    d4. e8 \times 2/3 {c4 a4 c4}
+    d1
+    d2. r4
+    \bar "||"
+
+    % outro
+    a'4 c8 a8 \times 2/3 {fis4 a4 fis4}
+    d2 e4 r4
+    \times 2/3 {g4 b4 c8 cis8} d4 \times 2/3 {r8 g8 g8}
+    g4 r4 c,4 d4
+
+    % begin repeat
+    fis4 d8 a8 c4 d4
+    r2 e4 fis4
+    a4 fis8 a8 e4 fis4
+    r2 e4 fis4
+
+    % end of song (and end repeat)
+    \bar "|."
 }
