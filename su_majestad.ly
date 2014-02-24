@@ -71,11 +71,17 @@
     \key bes \major
     r8 a8 cis8 e8 g8 bes8 a8 g8
     fis4 r2.
-    r8 bes8 d8 g8 a8 d8 fis8 a8
+    r8 bes8 d8 g,8 a8 d8 fis8 a8
 
     \barNumberCheck #37
     bes4 r4 r2
-    
+    r8 a8 cis,8 e8 g8 bes8 a8 g8
+    a2 d,2
+    r8 d8 d8 d8 d4 r8
+    c4 d8 e8 a2
+
+    % page 2
+
 
 
 
