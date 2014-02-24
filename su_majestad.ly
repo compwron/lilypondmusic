@@ -11,6 +11,7 @@
     \numericTimeSignature
     \time 4/4
     \compressFullBarRests
+    \set Score.markFormatter = #format-mark-box-alphabet
     
     r4 r4 d16 e16 fis16 g16 fis16 g16 a16 bes16 \bar "||"
     b4 r4 b16 d16 c16 bes16 a16 c16 bes16 a16 
@@ -21,5 +22,14 @@
     d4 d8 d8 d4 r4 \bar "||"
 
     % paseo
+    fis1
+    g2. d4
+    ees1
+
+    \barNumberCheck #9
+    \times 2/3 {d8 r8 ees8} \times 2/3 {c8 r8 d8} \times 2/3 {bes8 r8 d8} \times 2/3 {a8 r8 d8}
+    \bar "||" \mark \default % A
+
+
   }
 
