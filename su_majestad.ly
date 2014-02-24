@@ -39,12 +39,12 @@
     g2 fis2
     f2 e2
     ees2 d2
-    g2 \bar "||" % missing two beats?
+    g2 r2 % pretend rest
 
     % change key
     \key g \major
-    r4 d4. ees8 d8 ees8 d8 ees8 % missing a leading beat?
-    c8 d8 d2. \bar "||"
+    d'4. ees8 d8 ees8 d8 ees8 \bar "|" % missing a leading beat?
+    c8 d8 d2. 
 
     \barNumberCheck #20
     c4. d8 c8 d8 c8 d8 
@@ -53,10 +53,10 @@
     r4 a4 r4 bes4
     r4. g8 bes4 r4
     r4 a4 r4 a4
-    g4 f4 r4 r4
+    g4 fis4 r4 r4
 
     \barNumberCheck #26
-    d1
+    d'1
     e4 d4 c2
     r8 g8 c8 e8 g8 e8 ais4
     ais8 b8 b2 f4
@@ -69,20 +69,20 @@
 
     \mark \default % B
     \key bes \major
-    r8 a8 cis8 e8 g8 bes8 a8 g8
+    r8 a,8 cis8 e8 g8 bes8 a8 g8
     fis4 r2.
-    r8 bes8 d8 g,8 a8 d8 fis8 a8
+    r8 bes,8 d8 g,8 a8 d8 fis8 a8
 
     \barNumberCheck #37
     bes4 r4 r2
     r8 a8 cis,8 e8 g8 bes8 a8 g8
     a2 d,2
-    r8 d8 d8 d8 d4 r8
+    r8 d8 d8 d8 d4 r4
     c4 d8 e8 a2
 
     % page 2
     \barNumberCheck #42
-    bes4 c8 c8 f2
+    bes,4 c8 c8 f2
     a4 bes8 c8 ees2
     r8 d8 d8 d8 d8 d8 d8 d8
     c4 e4 g4 c4
