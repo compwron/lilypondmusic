@@ -3,11 +3,8 @@
 \header {
   title = "Alemendra 8-12"
   arranger = "arr. by Tregar Otton"
-  instrument = "Flute"
+  instrument = "Clarinet"
 }
-
-
-
 
 \transpose c' d'    
     \relative c'''{
