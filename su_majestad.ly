@@ -64,7 +64,7 @@
     b4 r4 r4 r4 
 
     \barNumberCheck #32
-    cis4 cis4 r4 fis4
+    cis,4 cis4 r4 fis4
     d4 r4 r4 r4 
 
     \mark \default % B
@@ -82,10 +82,10 @@
 
     % page 2
     \barNumberCheck #42
-    bes,4 c8 c8 f2
+    bes4 c8 c8 f2
     a4 bes8 c8 ees2
-    r8 d8 d8 d8 d8 d8 d8 d8
-    c4 e4 g4 c4
+    r8 d,8 d8 d8 d8 d8 d8 d8
+    c,4 e4 g4 c4
     bes4 d4 g2
     g2 fis2
     g4 r8 d8 r4 r4
@@ -101,8 +101,8 @@
     c4 d8 fis8 r8 d8 r4
     r8 b8 d8 e8 r8 e8 r8 b8 \bar "||"
     c4 d8 fis8 r8 d8 r4
-    r8 b8 d8 e8 r8 e8 b8 \bar "||"
-    c4 d8 fis8 r8 d8 e8
+    r8 b8 d8 e8 r8 e8 r8 b8 \bar "||"
+    c4 d8 fis8 r8 d8 r8 e8
     r8 g8 r8 b8 r4 r4 \bar "||"
 
     \barNumberCheck #57
@@ -110,40 +110,40 @@
     r8 e8 r8 d8 r4 r4
 
     % repeat start
-    r1*2
+    R1*2
     % repeat end
 
     \mark \default % D
-    r1*2 \bar "||" 
-    r1*2 \bar "||"
+    R1*2 \bar "||" 
+    R1*2 \bar "||"
     e8 e8 fis4 r4 r8 e8
     r8 e8 r8 d8 r4 r4
 
     % repeat start coro (3X)
     c4 a8 d8 c8 d8 r8 b8
     r8 b8 r8 d8 r8 e8 d8 e8
-    a4 a8 d8 c8 d8 r8 b8
+    a,4 a8 d8 c8 d8 r8 b8
 
     \barNumberCheck 70
-    r8 b8 d8 r8 e8 d8 e8 % end repeat
+    r8 b8 r8 d8 r8 e8 d8 e8 % end repeat
 
     \mark \default % E
     % start repeat
     % flute solo (open)
 
-    a4 a8 d8 c8 d8 r8 b8
-    r8 b8 d8 r8 e8 d e8
+    a,4 a8 d8 c8 d8 r8 b8
+    r8 b8 r8 d8 r8 e8 d e8
     % repeat ends
 
     \mark \default % F
-    a4 a8 d8 c8 d8 r8 b8
+    a4 a8 d,8 c8 d8 r8 b8
 
     \barNumberCheck 74
     r8 b8 r8 d8 r8 e8 d8 e8
-    a4 a8 d8 c8 d8 r8 b8 
+    a4 a8 d,8 c8 d8 r8 b8 
     r8 b8 r8 d8 r8 e8 d8 e8
-    a4 a8 d8 c8 d8 r8 b8
-    r8 b8 r8 d8 d8 e8 d8 e8
+    a4 a8 d,8 c8 d,8 r8 b8
+    r8 b8 r8 d8 r8 d8 e8 d8 e8
 
     \barNumberCheck 79
     e8 e8 fis8 r4 r8 g8
