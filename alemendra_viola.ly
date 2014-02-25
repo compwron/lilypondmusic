@@ -112,11 +112,46 @@
     g'2 \times 2/3 {r4 fis'4 ees'4}
     d'2. ees'8 fis'8
     d'2 bes2
-    c'2 d'2 \times 2/3 {fis'8 g'8 a'8}
+    c'2 d'4 \times 2/3 {fis'8 g'8 a'8}
     bes'4 g'4 fis'4 d'4
     bes4 fis'4 r4 b'8 b'8
 
     \barNumberCheck #72
+    \repeat volta 2 {
+      b'4 c'8 d'8 r8 e'8 fis'4
+      r2 r4 b'8 b'8
+      b'4 a'4 g'4 fis'4
+      r4 e'4 fis'4 r4 \bar "||"
+      d1
+      d1
+      a'4 r8 a'8 a'4 fis'8 e'8
+    }
+    \alternative {
+      { d'4 d''4 r4 a'8 b'8 | }
+      { d'4 r8 d''8 d''8 d''8 d''4 | }
+    }
+
+    \repeat volta 4 {
+      r4 r4 e'4 fis'4
+    }
+    \alternative {
+      { r4 r4 e'4 fis'4 | }
+    }
+
+    \repeat volta 2 {
+      r2 e'4 fis'4
+      r2 f'4 fis'4
+      r2 e'4 fis'4
+    }
+    \alternative {
+      { r2 e'4 fis'4 | }
+      { r2 e'4 fis'4 | }
+    }
+
+    r2 e'4 fis'4
+
+    \barNumberCheck #89
+
 
 
     
