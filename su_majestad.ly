@@ -2,7 +2,7 @@
 
 \header {
   title = "Su Majestad"
-  instrument = "Clarinet (from violin 1)"
+  instrument = "Bb Clarinet (from Violin 1)"
 }
 
  \transpose c' d'    % leave this out until teh end so that it is easier to check the notes

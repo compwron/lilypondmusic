@@ -3,7 +3,7 @@
 \header {
   title = "Alemendra 8-12"
   arranger = "arr. by Tregar Otton"
-  instrument = "Clarinet (from Viola)"
+  instrument = "Bb Clarinet (from Viola)"
 }
 
 \transpose c' d'    % leave this out- until copying is done - and how do you switch clefs?
