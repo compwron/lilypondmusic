@@ -30,6 +30,14 @@
     }
 
     d'2 des'2
+    c'2 r2
+
+    \barNumberCheck #13
+    d'1
+    g'4 g'4 r2
+    dis'4 fis'4 a'4 b'4
+    c''4 b4 r2
+    fis'4 a'4 cis''4 cis'4
     
   }
 
