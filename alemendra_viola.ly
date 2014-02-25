@@ -22,8 +22,14 @@
         r4 e'4 f'4 r4
         d'1
         d'1
-
+        a'4 r8 a'8 a'4 fis'8 e'8 |
     }
+    \alternative {
+      { d'4 d''4 r4 b'8 b'8 | }
+      { d'4 r4 r2 | }
+    }
+
+    d'2 des'2
     
   }
 
