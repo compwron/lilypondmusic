@@ -151,39 +151,38 @@
     r2 e'4 fis'4
 
     \barNumberCheck #89
+    r2 a'4 aes'8 g'8 \bar "||"
+    fis'4 r8 c''8 c''4 c''4
+    g''4 g'4 r4 r4
+    r1
+    \repeat volta 2 {
+      R1*2
+    }
+    R1*13
 
+    \barNumberCheck #108
+    \repeat volta 2 {
+      r8 c'8 e'8 g'8 b'8 g'8 b'8 a'8
+      r8 fis'8 r8 c'8 e'8 g'8 r4
+      r8 c'8 e'8 g'8 b'8 g'8 b'8 a'8
+      r8 c''8 r8 e''8 e'8 e''8 e'8 r8
+    }
 
+    \barNumberCheck #112
+    \repeat volta 2 {
+      d'4 d'4 r8 d'8 r8 d'8
+      r4 r8 d'8 r8 d'8 r4
+    }
 
+    d'4 d'4 r8 d'8 r8 d'8
+    r4 r8 d'8 r8 d'8 r4
+    d'4 d'4 r8 d'8 r8 d'8
     
+    \barNumberCheck #117
+    r4 r8 d'8 r8 d'8 r4 \bar "||"
+
+    c''4 e''8 c''8 \times 2/3 {a'4 c'4 a'4}
+    fis'2 g'4 r4
+    \times 2/3 {b'4 d'4 e'8 eis'8} fis'4 \times 2/3 {r8 b'8 b'8}
+    b'4 r2.
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
