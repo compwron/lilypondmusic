@@ -83,8 +83,8 @@
     % page 2
     \barNumberCheck #42
     bes4 c8 c8 f2
-    a4 b,es8 c8 ees2
-    r8 d,8 d8 d8 d8 d8 d8 d8
+    a4 bes,8 c8 ees2
+    r8 d8 d8 d8 d8 d8 d8 d8
     c,4 e4 g4 c4
     bes4 d4 g2
     g2 fis2
@@ -116,6 +116,8 @@
     \mark \default % D
     R1*2 \bar "||" 
     R1*2 \bar "||"
+
+    \barNumberCheck #65
     e8 e8 fis4 r4 r8 e8
     r8 e8 r8 d8 r4 r4
 
