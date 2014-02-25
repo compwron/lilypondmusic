@@ -2,10 +2,10 @@
 
 \header {
   title = "Su Majestad"
-  instrument = "Violin 1"
+  instrument = "Clarinet (from violin 1)"
 }
 
-% \transpose c' d'    % leave this out until teh end so that it is easier to check the notes
+ \transpose c' d'    % leave this out until teh end so that it is easier to check the notes
     \relative c''{
     \key bes \major
     \numericTimeSignature
@@ -13,9 +13,9 @@
     \compressFullBarRests
     \set Score.markFormatter = #format-mark-box-alphabet
     
-    r4 r4 d16 e16 fis16 g16 fis16 g16 a16 bes16 \bar "||"
+    r4 r4 d,16 e16 fis16 g16 fis16 g16 a16 bes16 \bar "||"
     b4 r4 b16 d16 c16 bes16 a16 c16 bes16 a16 
-    g4 r4 g16 g16 d16 d16 b16 b16 g16 g16
+    g'4 r4 g16 g16 d16 d16 b16 b16 g16 g16
     
     \barNumberCheck #4
     f'16 f16 c16 c16 a16 a16 f16 f16 ees'16 ees16 bes16 bes16 g16 g16 ees16 ees16
@@ -58,7 +58,7 @@
     \barNumberCheck #26
     d'1
     e4 d4 c2
-    r8 g8 c8 e8 g8 e8 ais4
+    r8 g8 c8 e8 g8 e8 ais,4
     ais8 b8 b2 f4
     g4 r4 r4 r4 
     b4 r4 r4 r4 
@@ -69,7 +69,7 @@
 
     \mark \default % B
     \key bes \major
-    r8 a,8 cis8 e8 g8 bes8 a8 g8
+    r8 a8 cis8 e8 g8 bes8 a8 g8
     fis4 r2.
     r8 bes,8 d8 g,8 a8 d8 fis8 a8
 
@@ -83,7 +83,7 @@
     % page 2
     \barNumberCheck #42
     bes4 c8 c8 f2
-    a4 bes8 c8 ees2
+    a4 b,es8 c8 ees2
     r8 d,8 d8 d8 d8 d8 d8 d8
     c,4 e4 g4 c4
     bes4 d4 g2
