@@ -101,8 +101,22 @@
     \times 2/3 {a'4 g'4 fis'8 g'8} a'2
     g'8 fis'8 d'8 fis'8 g'8 fis'8 e'8 g'8
 
-    \barNumberCheck 61
-    
+    \barNumberCheck #61
+    fis'8 d'8 a8 a'8 g'4 fis'4
+    g'8 a'8 bes'8 a'8 g'8 bes'8 a'8 g'8
+    a'8 fis'8 d'8 c''8 ges'4 a'4
+    bes'2. a'8 g'8
+    fis'2 \times 2/3 {fis'4 g'4 a'4}
+
+    \barNumberCheck #66
+    g'2 \times 2/3 {r4 fis'4 ees'4}
+    d'2. ees'8 fis'8
+    d'2 bes2
+    c'2 d'2 \times 2/3 {fis'8 g'8 a'8}
+    bes'4 g'4 fis'4 d'4
+    bes4 fis'4 r4 b'8 b'8
+
+    \barNumberCheck #72
 
 
     
