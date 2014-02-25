@@ -3,13 +3,13 @@
 \header {
   title = "Alemendra 8-12"
   arranger = "arr. by Tregar Otton"
-  instrument = "Viola"
+  instrument = "Clarinet (from Viola)"
 }
 
-%\transpose c' d'    % leave this out- until copying is done - and how do you switch clefs?
+\transpose c' d'    % leave this out- until copying is done - and how do you switch clefs?
     \absolute {
     \key g \major
-    \clef alto
+    % \clef alto
     \numericTimeSignature
     \time 4/4
     \compressFullBarRests
@@ -122,8 +122,8 @@
       r2 r4 b'8 b'8
       b'4 a'4 g'4 fis'4
       r4 e'4 fis'4 r4 \bar "||"
-      d1
-      d1
+      d'1
+      d'1
       a'4 r8 a'8 a'4 fis'8 e'8
     }
     \alternative {
