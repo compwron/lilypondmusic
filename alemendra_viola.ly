@@ -16,13 +16,13 @@
 
     r2 r4 e'8 ees'8
     \repeat volta 2 { 
-        d4 ees8 e8 r8 g8 f4
-        r2 r4 b8 b8
-        b4 a4 g4 f4
-        r4 e4 f4 r4
-        d1
-        d1
-        
+        d'4 ees'8 e'8 r8 g'8 fis'4
+        r2 r4 b'8 b'8
+        b'4 a'4 g'4 fis'4
+        r4 e'4 f'4 r4
+        d'1
+        d'1
+
     }
     
   }
