@@ -18,6 +18,7 @@
     r4. gis''8 r4 r4 \bar "||"
     R1*4 \bar "||"
     e''4 r2.
-
+    r8 d'8 d'8 e'8 r8 f'8 r8 e'8
+    r'8 d'8 e4 r4 r4
     
   }
