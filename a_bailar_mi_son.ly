@@ -20,5 +20,10 @@
     e''4 r2.
     r8 d'8 d'8 e'8 r8 f'8 r8 e'8
     r'8 d'8 e4 r4 r4
+
+    \barNumberCheck 12 
+    r8 d'8 d'8 e'8 r'8 f'8 r'8 e'8
+    r'8 a'8 c'4 r'4 r'8 d'8
+    
     
   }
