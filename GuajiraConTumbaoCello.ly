@@ -7,7 +7,7 @@
 }
 	
 
-% \transpose c' d'    % leave this out until copying is done
+ \transpose c' d'    % leave this out until copying is done
     
 	\absolute {
  

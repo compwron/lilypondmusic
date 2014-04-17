@@ -6,7 +6,7 @@
   instrument = "Bb Clarinet (from Flute)"
 }
 
-% \transpose c' d'    % leave this out until copying is done
+ \transpose c' d'    % leave this out until copying is done
     \absolute {
     \key bes \major
     \time 4/4 % actually C
@@ -69,9 +69,9 @@
     R1*2 \bar "||"
     r1
     \mark \default % B
-    r4 r8 r''d r4 r8 r''bes
-    r4 r8 r''g r''f r''d r''bes r''c
-    r4 r8 r''d r4 r8 r''b
+    r4 r8 ''d r4 r8 r8 ''bes
+    r4 r8 ''g ''f r8 ''d r8 ''bes r8 ''c
+    r4 r8 ''d r4 r8 r8 ''b
 
     \barCheckNumber #52
     r4 r8 f''8 bes''8 c''8 d''8 c''8
